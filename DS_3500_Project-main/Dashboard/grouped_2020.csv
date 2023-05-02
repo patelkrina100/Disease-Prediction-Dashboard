@@ -1,0 +1,992 @@
+,StateDesc,Short_Question_Text,Measure,StateAbbr,TotalNumber,ESTIMATESBASE2020
+0,Alabama,All Teeth Lost,All teeth lost among adults aged >=65 years,AL,1073619.0,5024279
+1,Alabama,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,AL,4736982.0,5024279
+2,Alabama,Arthritis,Arthritis among adults aged >=18 years,AL,1819705.0,5024279
+3,Alabama,Binge Drinking,Binge drinking among adults aged >=18 years,AL,907088.0,5024279
+4,Alabama,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,AL,503812.0,5024279
+5,Alabama,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,AL,378265.0,5024279
+6,Alabama,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,AL,5225175.0,5024279
+7,Alabama,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,AL,202168.0,5024279
+8,Alabama,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",AL,4544529.0,5024279
+9,Alabama,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",AL,2550954.0,5024279
+10,Alabama,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",AL,2241962.0,5024279
+11,Alabama,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,AL,422546.0,5024279
+12,Alabama,Current Asthma,Current asthma among adults aged >=18 years,AL,632997.0,5024279
+13,Alabama,Current Smoking,Current smoking among adults aged >=18 years,AL,1201351.0,5024279
+14,Alabama,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,AL,3717370.0,5024279
+15,Alabama,Depression,Depression among adults aged >=18 years,AL,1539557.0,5024279
+16,Alabama,Diabetes,Diagnosed diabetes among adults aged >=18 years,AL,797118.0,5024279
+17,Alabama,General Health,Fair or poor self-rated health status among adults aged >=18 years,AL,1241773.0,5024279
+18,Alabama,Health Insurance,Current lack of health insurance among adults aged 18-64 years,AL,1070246.0,5024279
+19,Alabama,Mammography,Mammography use among women aged 50-74 years,AL,4804050.0,5024279
+20,Alabama,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,AL,1038020.0,5024279
+21,Alabama,Obesity,Obesity among adults aged >=18 years,AL,2460454.0,5024279
+22,Alabama,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,AL,739488.0,5024279
+23,Alabama,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,AL,1774066.0,5024279
+24,Alabama,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,AL,2433380.0,5024279
+25,Alabama,Stroke,Stroke among adults aged >=18 years,AL,231491.0,5024279
+26,Alaska,All Teeth Lost,All teeth lost among adults aged >=65 years,AK,194244.0,733391
+27,Alaska,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,AK,854533.0,733391
+28,Alaska,Arthritis,Arthritis among adults aged >=18 years,AK,278842.0,733391
+29,Alaska,Binge Drinking,Binge drinking among adults aged >=18 years,AK,274990.0,733391
+30,Alaska,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,AK,73194.0,733391
+31,Alaska,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,AK,75396.0,733391
+32,Alaska,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,AK,1063765.0,733391
+33,Alaska,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,AK,33701.0,733391
+34,Alaska,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",AK,886465.0,733391
+35,Alaska,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",AK,467475.0,733391
+36,Alaska,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",AK,394039.0,733391
+37,Alaska,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,AK,71674.0,733391
+38,Alaska,Current Asthma,Current asthma among adults aged >=18 years,AK,131044.0,733391
+39,Alaska,Current Smoking,Current smoking among adults aged >=18 years,AK,253753.0,733391
+40,Alaska,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,AK,840730.0,733391
+41,Alaska,Depression,Depression among adults aged >=18 years,AK,239457.0,733391
+42,Alaska,Diabetes,Diagnosed diabetes among adults aged >=18 years,AK,110262.0,733391
+43,Alaska,General Health,Fair or poor self-rated health status among adults aged >=18 years,AK,172535.0,733391
+44,Alaska,Health Insurance,Current lack of health insurance among adults aged 18-64 years,AK,192880.0,733391
+45,Alaska,Mammography,Mammography use among women aged 50-74 years,AK,884052.0,733391
+46,Alaska,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,AK,176056.0,733391
+47,Alaska,Obesity,Obesity among adults aged >=18 years,AK,424552.0,733391
+48,Alaska,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,AK,126660.0,733391
+49,Alaska,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,AK,289652.0,733391
+50,Alaska,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,AK,433478.0,733391
+51,Alaska,Stroke,Stroke among adults aged >=18 years,AK,37347.0,733391
+52,Arizona,All Teeth Lost,All teeth lost among adults aged >=65 years,AZ,1631127.0,7151502
+53,Arizona,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,AZ,8283500.0,7151502
+54,Arizona,Arthritis,Arthritis among adults aged >=18 years,AZ,2488539.0,7151502
+55,Arizona,Binge Drinking,Binge drinking among adults aged >=18 years,AZ,1924498.0,7151502
+56,Arizona,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,AZ,727469.0,7151502
+57,Arizona,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,AZ,685673.0,7151502
+58,Arizona,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,AZ,9471243.0,7151502
+59,Arizona,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,AZ,355757.0,7151502
+60,Arizona,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",AZ,7819502.0,7151502
+61,Arizona,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",AZ,4680888.0,7151502
+62,Arizona,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",AZ,3935459.0,7151502
+63,Arizona,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,AZ,667576.0,7151502
+64,Arizona,Current Asthma,Current asthma among adults aged >=18 years,AZ,1247946.0,7151502
+65,Arizona,Current Smoking,Current smoking among adults aged >=18 years,AZ,1940897.0,7151502
+66,Arizona,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,AZ,7017278.0,7151502
+67,Arizona,Depression,Depression among adults aged >=18 years,AZ,2368957.0,7151502
+68,Arizona,Diabetes,Diagnosed diabetes among adults aged >=18 years,AZ,1166724.0,7151502
+69,Arizona,General Health,Fair or poor self-rated health status among adults aged >=18 years,AZ,1820985.0,7151502
+70,Arizona,Health Insurance,Current lack of health insurance among adults aged 18-64 years,AZ,2234365.0,7151502
+71,Arizona,Mammography,Mammography use among women aged 50-74 years,AZ,8325304.0,7151502
+72,Arizona,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,AZ,1813643.0,7151502
+73,Arizona,Obesity,Obesity among adults aged >=18 years,AZ,3661320.0,7151502
+74,Arizona,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,AZ,1242289.0,7151502
+75,Arizona,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,AZ,2713652.0,7151502
+76,Arizona,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,AZ,3899830.0,7151502
+77,Arizona,Stroke,Stroke among adults aged >=18 years,AZ,334772.0,7151502
+78,Arkansas,All Teeth Lost,All teeth lost among adults aged >=65 years,AR,753232.0,3011524
+79,Arkansas,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,AR,2990310.0,3011524
+80,Arkansas,Arthritis,Arthritis among adults aged >=18 years,AR,964926.0,3011524
+81,Arkansas,Binge Drinking,Binge drinking among adults aged >=18 years,AR,592017.0,3011524
+82,Arkansas,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,AR,317946.0,3011524
+83,Arkansas,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,AR,238590.0,3011524
+84,Arkansas,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,AR,3151823.0,3011524
+85,Arkansas,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,AR,123638.0,3011524
+86,Arkansas,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",AR,2710107.0,3011524
+87,Arkansas,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",AR,1550910.0,3011524
+88,Arkansas,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",AR,1385703.0,3011524
+89,Arkansas,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,AR,272725.0,3011524
+90,Arkansas,Current Asthma,Current asthma among adults aged >=18 years,AR,407366.0,3011524
+91,Arkansas,Current Smoking,Current smoking among adults aged >=18 years,AR,835039.0,3011524
+92,Arkansas,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,AR,2190661.0,3011524
+93,Arkansas,Depression,Depression among adults aged >=18 years,AR,950205.0,3011524
+94,Arkansas,Diabetes,Diagnosed diabetes among adults aged >=18 years,AR,452289.0,3011524
+95,Arkansas,General Health,Fair or poor self-rated health status among adults aged >=18 years,AR,786564.0,3011524
+96,Arkansas,Health Insurance,Current lack of health insurance among adults aged 18-64 years,AR,634880.0,3011524
+97,Arkansas,Mammography,Mammography use among women aged 50-74 years,AR,2849911.0,3011524
+98,Arkansas,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,AR,663958.0,3011524
+99,Arkansas,Obesity,Obesity among adults aged >=18 years,AR,1465893.0,3011524
+100,Arkansas,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,AR,502471.0,3011524
+101,Arkansas,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,AR,1179316.0,3011524
+102,Arkansas,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,AR,1360224.0,3011524
+103,Arkansas,Stroke,Stroke among adults aged >=18 years,AR,137236.0,3011524
+104,California,All Teeth Lost,All teeth lost among adults aged >=65 years,CA,8047863.0,39538223
+105,California,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,CA,46052565.0,39538223
+106,California,Arthritis,Arthritis among adults aged >=18 years,CA,13321219.0,39538223
+107,California,Binge Drinking,Binge drinking among adults aged >=18 years,CA,12485150.0,39538223
+108,California,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,CA,3768022.0,39538223
+109,California,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,CA,3667195.0,39538223
+110,California,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,CA,57102473.0,39538223
+111,California,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,CA,1898486.0,39538223
+112,California,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",CA,41995987.0,39538223
+113,California,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",CA,23767578.0,39538223
+114,California,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",CA,19606299.0,39538223
+115,California,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,CA,3624269.0,39538223
+116,California,Current Asthma,Current asthma among adults aged >=18 years,CA,6666167.0,39538223
+117,California,Current Smoking,Current smoking among adults aged >=18 years,CA,8412806.0,39538223
+118,California,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,CA,43574516.0,39538223
+119,California,Depression,Depression among adults aged >=18 years,CA,11865048.0,39538223
+120,California,Diabetes,Diagnosed diabetes among adults aged >=18 years,CA,6906855.0,39538223
+121,California,General Health,Fair or poor self-rated health status among adults aged >=18 years,CA,10890260.0,39538223
+122,California,Health Insurance,Current lack of health insurance among adults aged 18-64 years,CA,10668880.0,39538223
+123,California,Mammography,Mammography use among women aged 50-74 years,CA,50209090.0,39538223
+124,California,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,CA,10383849.0,39538223
+125,California,Obesity,Obesity among adults aged >=18 years,CA,20468994.0,39538223
+126,California,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,CA,7052888.0,39538223
+127,California,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,CA,15210485.0,39538223
+128,California,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,CA,22926785.0,39538223
+129,California,Stroke,Stroke among adults aged >=18 years,CA,1866765.0,39538223
+130,Colorado,All Teeth Lost,All teeth lost among adults aged >=65 years,CO,982279.0,5773714
+131,Colorado,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,CO,5681629.0,5773714
+132,Colorado,Arthritis,Arthritis among adults aged >=18 years,CO,1727708.0,5773714
+133,Colorado,Binge Drinking,Binge drinking among adults aged >=18 years,CO,1627163.0,5773714
+134,Colorado,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,CO,433642.0,5773714
+135,Colorado,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,CO,498606.0,5773714
+136,Colorado,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,CO,7137586.0,5773714
+137,Colorado,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,CO,210144.0,5773714
+138,Colorado,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",CO,6031072.0,5773714
+139,Colorado,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",CO,3741167.0,5773714
+140,Colorado,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",CO,3178072.0,5773714
+141,Colorado,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,CO,406728.0,5773714
+142,Colorado,Current Asthma,Current asthma among adults aged >=18 years,CO,850334.0,5773714
+143,Colorado,Current Smoking,Current smoking among adults aged >=18 years,CO,1223567.0,5773714
+144,Colorado,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,CO,5596757.0,5773714
+145,Colorado,Depression,Depression among adults aged >=18 years,CO,1705697.0,5773714
+146,Colorado,Diabetes,Diagnosed diabetes among adults aged >=18 years,CO,656789.0,5773714
+147,Colorado,General Health,Fair or poor self-rated health status among adults aged >=18 years,CO,960359.0,5773714
+148,Colorado,Health Insurance,Current lack of health insurance among adults aged 18-64 years,CO,1259406.0,5773714
+149,Colorado,Mammography,Mammography use among women aged 50-74 years,CO,5974908.0,5773714
+150,Colorado,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,CO,1210986.0,5773714
+151,Colorado,Obesity,Obesity among adults aged >=18 years,CO,2151389.0,5773714
+152,Colorado,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,CO,747445.0,5773714
+153,Colorado,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,CO,1511404.0,5773714
+154,Colorado,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,CO,2433645.0,5773714
+155,Colorado,Stroke,Stroke among adults aged >=18 years,CO,204863.0,5773714
+156,Connecticut,All Teeth Lost,All teeth lost among adults aged >=65 years,CT,520934.0,3605944
+157,Connecticut,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,CT,3299806.0,3605944
+158,Connecticut,Arthritis,Arthritis among adults aged >=18 years,CT,962485.0,3605944
+159,Connecticut,Binge Drinking,Binge drinking among adults aged >=18 years,CT,700808.0,3605944
+160,Connecticut,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,CT,254505.0,3605944
+161,Connecticut,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,CT,265257.0,3605944
+162,Connecticut,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,CT,3720227.0,3605944
+163,Connecticut,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,CT,116569.0,3605944
+164,Connecticut,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",CT,3267988.0,3605944
+165,Connecticut,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",CT,1894297.0,3605944
+166,Connecticut,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",CT,1676116.0,3605944
+167,Connecticut,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,CT,243022.0,3605944
+168,Connecticut,Current Asthma,Current asthma among adults aged >=18 years,CT,468889.0,3605944
+169,Connecticut,Current Smoking,Current smoking among adults aged >=18 years,CT,692651.0,3605944
+170,Connecticut,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,CT,2929696.0,3605944
+171,Connecticut,Depression,Depression among adults aged >=18 years,CT,876135.0,3605944
+172,Connecticut,Diabetes,Diagnosed diabetes among adults aged >=18 years,CT,413052.0,3605944
+173,Connecticut,General Health,Fair or poor self-rated health status among adults aged >=18 years,CT,580933.0,3605944
+174,Connecticut,Health Insurance,Current lack of health insurance among adults aged 18-64 years,CT,549023.0,3605944
+175,Connecticut,Mammography,Mammography use among women aged 50-74 years,CT,3437037.0,3605944
+176,Connecticut,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,CT,644028.0,3605944
+177,Connecticut,Obesity,Obesity among adults aged >=18 years,CT,1338641.0,3605944
+178,Connecticut,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,CT,418224.0,3605944
+179,Connecticut,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,CT,967523.0,3605944
+180,Connecticut,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,CT,1520877.0,3605944
+181,Connecticut,Stroke,Stroke among adults aged >=18 years,CT,120726.0,3605944
+182,Delaware,All Teeth Lost,All teeth lost among adults aged >=65 years,DE,102862.0,989948
+183,Delaware,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,DE,582032.0,989948
+184,Delaware,Arthritis,Arthritis among adults aged >=18 years,DE,171721.0,989948
+185,Delaware,Binge Drinking,Binge drinking among adults aged >=18 years,DE,125302.0,989948
+186,Delaware,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,DE,49338.0,989948
+187,Delaware,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,DE,45469.0,989948
+188,Delaware,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,DE,631338.0,989948
+189,Delaware,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,DE,22433.0,989948
+190,Delaware,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",DE,560743.0,989948
+191,Delaware,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",DE,299848.0,989948
+192,Delaware,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",DE,266356.0,989948
+193,Delaware,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,DE,45374.0,989948
+194,Delaware,Current Asthma,Current asthma among adults aged >=18 years,DE,83978.0,989948
+195,Delaware,Current Smoking,Current smoking among adults aged >=18 years,DE,133079.0,989948
+196,Delaware,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,DE,476688.0,989948
+197,Delaware,Depression,Depression among adults aged >=18 years,DE,140882.0,989948
+198,Delaware,Diabetes,Diagnosed diabetes among adults aged >=18 years,DE,84588.0,989948
+199,Delaware,General Health,Fair or poor self-rated health status among adults aged >=18 years,DE,113907.0,989948
+200,Delaware,Health Insurance,Current lack of health insurance among adults aged 18-64 years,DE,116703.0,989948
+201,Delaware,Mammography,Mammography use among women aged 50-74 years,DE,595305.0,989948
+202,Delaware,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,DE,112121.0,989948
+203,Delaware,Obesity,Obesity among adults aged >=18 years,DE,280312.0,989948
+204,Delaware,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,DE,79922.0,989948
+205,Delaware,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,DE,197753.0,989948
+206,Delaware,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,DE,272729.0,989948
+207,Delaware,Stroke,Stroke among adults aged >=18 years,DE,23540.0,989948
+208,District of Columbia,All Teeth Lost,All teeth lost among adults aged >=65 years,DC,134787.0,689545
+209,District of Columbia,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,DC,841210.0,689545
+210,District of Columbia,Arthritis,Arthritis among adults aged >=18 years,DC,214214.0,689545
+211,District of Columbia,Binge Drinking,Binge drinking among adults aged >=18 years,DC,252123.0,689545
+212,District of Columbia,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,DC,49343.0,689545
+213,District of Columbia,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,DC,63182.0,689545
+214,District of Columbia,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,DC,1027142.0,689545
+215,District of Columbia,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,DC,31893.0,689545
+216,District of Columbia,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",DC,935078.0,689545
+217,District of Columbia,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",DC,503042.0,689545
+218,District of Columbia,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",DC,438055.0,689545
+219,District of Columbia,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,DC,51147.0,689545
+220,District of Columbia,Current Asthma,Current asthma among adults aged >=18 years,DC,126964.0,689545
+221,District of Columbia,Current Smoking,Current smoking among adults aged >=18 years,DC,159457.0,689545
+222,District of Columbia,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,DC,793674.0,689545
+223,District of Columbia,Depression,Depression among adults aged >=18 years,DC,240088.0,689545
+224,District of Columbia,Diabetes,Diagnosed diabetes among adults aged >=18 years,DC,98683.0,689545
+225,District of Columbia,General Health,Fair or poor self-rated health status among adults aged >=18 years,DC,138398.0,689545
+226,District of Columbia,Health Insurance,Current lack of health insurance among adults aged 18-64 years,DC,92666.0,689545
+227,District of Columbia,Mammography,Mammography use among women aged 50-74 years,DC,948316.0,689545
+228,District of Columbia,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,DC,179916.0,689545
+229,District of Columbia,Obesity,Obesity among adults aged >=18 years,DC,294243.0,689545
+230,District of Columbia,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,DC,92065.0,689545
+231,District of Columbia,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,DC,214214.0,689545
+232,District of Columbia,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,DC,387511.0,689545
+233,District of Columbia,Stroke,Stroke among adults aged >=18 years,DC,36706.0,689545
+234,Florida,All Teeth Lost,All teeth lost among adults aged >=65 years,FL,4360757.0,21538187
+235,Florida,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,FL,21331122.0,21538187
+236,Florida,Arthritis,Arthritis among adults aged >=18 years,FL,6403713.0,21538187
+237,Florida,Binge Drinking,Binge drinking among adults aged >=18 years,FL,4392372.0,21538187
+238,Florida,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,FL,2118352.0,21538187
+239,Florida,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,FL,1738918.0,21538187
+240,Florida,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,FL,23186866.0,21538187
+241,Florida,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,FL,893740.0,21538187
+242,Florida,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",FL,20441330.0,21538187
+243,Florida,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",FL,9853665.0,21538187
+244,Florida,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",FL,9142057.0,21538187
+245,Florida,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,FL,1821202.0,21538187
+246,Florida,Current Asthma,Current asthma among adults aged >=18 years,FL,2522530.0,21538187
+247,Florida,Current Smoking,Current smoking among adults aged >=18 years,FL,5211696.0,21538187
+248,Florida,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,FL,16514277.0,21538187
+249,Florida,Depression,Depression among adults aged >=18 years,FL,5237856.0,21538187
+250,Florida,Diabetes,Diagnosed diabetes among adults aged >=18 years,FL,3221130.0,21538187
+251,Florida,General Health,Fair or poor self-rated health status among adults aged >=18 years,FL,4970026.0,21538187
+252,Florida,Health Insurance,Current lack of health insurance among adults aged 18-64 years,FL,6891362.0,21538187
+253,Florida,Mammography,Mammography use among women aged 50-74 years,FL,21523751.0,21538187
+254,Florida,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,FL,4503942.0,21538187
+255,Florida,Obesity,Obesity among adults aged >=18 years,FL,8880975.0,21538187
+256,Florida,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,FL,3335683.0,21538187
+257,Florida,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,FL,7883692.0,21538187
+258,Florida,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,FL,10079672.0,21538187
+259,Florida,Stroke,Stroke among adults aged >=18 years,FL,946590.0,21538187
+260,Georgia,All Teeth Lost,All teeth lost among adults aged >=65 years,GA,1696616.0,10711908
+261,Georgia,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,GA,7250304.0,10711908
+262,Georgia,Arthritis,Arthritis among adults aged >=18 years,GA,2228819.0,10711908
+263,Georgia,Binge Drinking,Binge drinking among adults aged >=18 years,GA,1474139.0,10711908
+264,Georgia,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,GA,617095.0,10711908
+265,Georgia,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,GA,519706.0,10711908
+266,Georgia,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,GA,7847553.0,10711908
+267,Georgia,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,GA,297495.0,10711908
+268,Georgia,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",GA,6666962.0,10711908
+269,Georgia,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",GA,3992699.0,10711908
+270,Georgia,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",GA,3344338.0,10711908
+271,Georgia,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,GA,573421.0,10711908
+272,Georgia,Current Asthma,Current asthma among adults aged >=18 years,GA,963680.0,10711908
+273,Georgia,Current Smoking,Current smoking among adults aged >=18 years,GA,1741476.0,10711908
+274,Georgia,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,GA,5433057.0,10711908
+275,Georgia,Depression,Depression among adults aged >=18 years,GA,1822048.0,10711908
+276,Georgia,Diabetes,Diagnosed diabetes among adults aged >=18 years,GA,1138498.0,10711908
+277,Georgia,General Health,Fair or poor self-rated health status among adults aged >=18 years,GA,1633037.0,10711908
+278,Georgia,Health Insurance,Current lack of health insurance among adults aged 18-64 years,GA,2086195.0,10711908
+279,Georgia,Mammography,Mammography use among women aged 50-74 years,GA,7260212.0,10711908
+280,Georgia,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,GA,1525823.0,10711908
+281,Georgia,Obesity,Obesity among adults aged >=18 years,GA,3369298.0,10711908
+282,Georgia,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,GA,1037729.0,10711908
+283,Georgia,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,GA,2558160.0,10711908
+284,Georgia,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,GA,3587479.0,10711908
+285,Georgia,Stroke,Stroke among adults aged >=18 years,GA,325436.0,10711908
+286,Hawaii,All Teeth Lost,All teeth lost among adults aged >=65 years,HI,188090.0,1455271
+287,Hawaii,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,HI,2027298.0,1455271
+288,Hawaii,Arthritis,Arthritis among adults aged >=18 years,HI,480549.0,1455271
+289,Hawaii,Binge Drinking,Binge drinking among adults aged >=18 years,HI,437687.0,1455271
+290,Hawaii,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,HI,105112.0,1455271
+291,Hawaii,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,HI,128802.0,1455271
+292,Hawaii,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,HI,2062212.0,1455271
+293,Hawaii,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,HI,63264.0,1455271
+294,Hawaii,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",HI,1870098.0,1455271
+295,Hawaii,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",HI,837654.0,1455271
+296,Hawaii,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",HI,820968.0,1455271
+297,Hawaii,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,HI,116739.0,1455271
+298,Hawaii,Current Asthma,Current asthma among adults aged >=18 years,HI,229902.0,1455271
+299,Hawaii,Current Smoking,Current smoking among adults aged >=18 years,HI,341431.0,1455271
+300,Hawaii,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,HI,1880339.0,1455271
+301,Hawaii,Depression,Depression among adults aged >=18 years,HI,378069.0,1455271
+302,Hawaii,Diabetes,Diagnosed diabetes among adults aged >=18 years,HI,249942.0,1455271
+303,Hawaii,General Health,Fair or poor self-rated health status among adults aged >=18 years,HI,310209.0,1455271
+304,Hawaii,Health Insurance,Current lack of health insurance among adults aged 18-64 years,HI,261716.0,1455271
+305,Hawaii,Mammography,Mammography use among women aged 50-74 years,HI,2041736.0,1455271
+306,Hawaii,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,HI,318694.0,1455271
+307,Hawaii,Obesity,Obesity among adults aged >=18 years,HI,616163.0,1455271
+308,Hawaii,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,HI,201791.0,1455271
+309,Hawaii,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,HI,514459.0,1455271
+310,Hawaii,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,HI,1058728.0,1455271
+311,Hawaii,Stroke,Stroke among adults aged >=18 years,HI,70574.0,1455271
+312,Idaho,All Teeth Lost,All teeth lost among adults aged >=65 years,ID,319568.0,1839106
+313,Idaho,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,ID,1542603.0,1839106
+314,Idaho,Arthritis,Arthritis among adults aged >=18 years,ID,469420.0,1839106
+315,Idaho,Binge Drinking,Binge drinking among adults aged >=18 years,ID,352304.0,1839106
+316,Idaho,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,ID,131614.0,1839106
+317,Idaho,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,ID,130702.0,1839106
+318,Idaho,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,ID,1747637.0,1839106
+319,Idaho,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,ID,59994.0,1839106
+320,Idaho,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",ID,1445109.0,1839106
+321,Idaho,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",ID,810487.0,1839106
+322,Idaho,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",ID,781858.0,1839106
+323,Idaho,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,ID,126579.0,1839106
+324,Idaho,Current Asthma,Current asthma among adults aged >=18 years,ID,220285.0,1839106
+325,Idaho,Current Smoking,Current smoking among adults aged >=18 years,ID,364109.0,1839106
+326,Idaho,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,ID,1433267.0,1839106
+327,Idaho,Depression,Depression among adults aged >=18 years,ID,450331.0,1839106
+328,Idaho,Diabetes,Diagnosed diabetes among adults aged >=18 years,ID,197108.0,1839106
+329,Idaho,General Health,Fair or poor self-rated health status among adults aged >=18 years,ID,297116.0,1839106
+330,Idaho,Health Insurance,Current lack of health insurance among adults aged 18-64 years,ID,364224.0,1839106
+331,Idaho,Mammography,Mammography use among women aged 50-74 years,ID,1536030.0,1839106
+332,Idaho,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,ID,314281.0,1839106
+333,Idaho,Obesity,Obesity among adults aged >=18 years,ID,712802.0,1839106
+334,Idaho,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,ID,229316.0,1839106
+335,Idaho,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,ID,472653.0,1839106
+336,Idaho,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,ID,669934.0,1839106
+337,Idaho,Stroke,Stroke among adults aged >=18 years,ID,61223.0,1839106
+338,Illinois,All Teeth Lost,All teeth lost among adults aged >=65 years,IL,3122642.0,12812508
+339,Illinois,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,IL,17035540.0,12812508
+340,Illinois,Arthritis,Arthritis among adults aged >=18 years,IL,4980407.0,12812508
+341,Illinois,Binge Drinking,Binge drinking among adults aged >=18 years,IL,3349625.0,12812508
+342,Illinois,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,IL,1298188.0,12812508
+343,Illinois,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,IL,1304307.0,12812508
+344,Illinois,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,IL,18162931.0,12812508
+345,Illinois,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,IL,613072.0,12812508
+346,Illinois,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",IL,15090916.0,12812508
+347,Illinois,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",IL,8966285.0,12812508
+348,Illinois,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",IL,8090081.0,12812508
+349,Illinois,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,IL,1211082.0,12812508
+350,Illinois,Current Asthma,Current asthma among adults aged >=18 years,IL,2161607.0,12812508
+351,Illinois,Current Smoking,Current smoking among adults aged >=18 years,IL,3528377.0,12812508
+352,Illinois,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,IL,14321971.0,12812508
+353,Illinois,Depression,Depression among adults aged >=18 years,IL,3579976.0,12812508
+354,Illinois,Diabetes,Diagnosed diabetes among adults aged >=18 years,IL,2190259.0,12812508
+355,Illinois,General Health,Fair or poor self-rated health status among adults aged >=18 years,IL,3214106.0,12812508
+356,Illinois,Health Insurance,Current lack of health insurance among adults aged 18-64 years,IL,3007920.0,12812508
+357,Illinois,Mammography,Mammography use among women aged 50-74 years,IL,17221565.0,12812508
+358,Illinois,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,IL,2828786.0,12812508
+359,Illinois,Obesity,Obesity among adults aged >=18 years,IL,7313209.0,12812508
+360,Illinois,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,IL,2052155.0,12812508
+361,Illinois,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,IL,5661135.0,12812508
+362,Illinois,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,IL,7438850.0,12812508
+363,Illinois,Stroke,Stroke among adults aged >=18 years,IL,642986.0,12812508
+364,Indiana,All Teeth Lost,All teeth lost among adults aged >=65 years,IN,1598960.0,6785528
+365,Indiana,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,IN,6645812.0,6785528
+366,Indiana,Arthritis,Arthritis among adults aged >=18 years,IN,2186235.0,6785528
+367,Indiana,Binge Drinking,Binge drinking among adults aged >=18 years,IN,1484477.0,6785528
+368,Indiana,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,IN,706628.0,6785528
+369,Indiana,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,IN,542109.0,6785528
+370,Indiana,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,IN,7265097.0,6785528
+371,Indiana,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,IN,264993.0,6785528
+372,Indiana,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",IN,6119427.0,6785528
+373,Indiana,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",IN,3511617.0,6785528
+374,Indiana,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",IN,3002802.0,6785528
+375,Indiana,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,IN,572019.0,6785528
+376,Indiana,Current Asthma,Current asthma among adults aged >=18 years,IN,934653.0,6785528
+377,Indiana,Current Smoking,Current smoking among adults aged >=18 years,IN,1922058.0,6785528
+378,Indiana,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,IN,5364744.0,6785528
+379,Indiana,Depression,Depression among adults aged >=18 years,IN,2074598.0,6785528
+380,Indiana,Diabetes,Diagnosed diabetes among adults aged >=18 years,IN,991505.0,6785528
+381,Indiana,General Health,Fair or poor self-rated health status among adults aged >=18 years,IN,1517917.0,6785528
+382,Indiana,Health Insurance,Current lack of health insurance among adults aged 18-64 years,IN,1332616.0,6785528
+383,Indiana,Mammography,Mammography use among women aged 50-74 years,IN,6405387.0,6785528
+384,Indiana,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,IN,1456991.0,6785528
+385,Indiana,Obesity,Obesity among adults aged >=18 years,IN,3366196.0,6785528
+386,Indiana,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,IN,1017614.0,6785528
+387,Indiana,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,IN,2451331.0,6785528
+388,Indiana,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,IN,3132188.0,6785528
+389,Indiana,Stroke,Stroke among adults aged >=18 years,IN,284908.0,6785528
+390,Iowa,All Teeth Lost,All teeth lost among adults aged >=65 years,IA,624337.0,3190369
+391,Iowa,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,IA,3605426.0,3190369
+392,Iowa,Arthritis,Arthritis among adults aged >=18 years,IA,1091195.0,3190369
+393,Iowa,Binge Drinking,Binge drinking among adults aged >=18 years,IA,1093531.0,3190369
+394,Iowa,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,IA,300065.0,3190369
+395,Iowa,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,IA,305190.0,3190369
+396,Iowa,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,IA,4015671.0,3190369
+397,Iowa,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,IA,130227.0,3190369
+398,Iowa,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",IA,3485509.0,3190369
+399,Iowa,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",IA,1999842.0,3190369
+400,Iowa,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",IA,1855439.0,3190369
+401,Iowa,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,IA,284330.0,3190369
+402,Iowa,Current Asthma,Current asthma among adults aged >=18 years,IA,459830.0,3190369
+403,Iowa,Current Smoking,Current smoking among adults aged >=18 years,IA,833164.0,3190369
+404,Iowa,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,IA,3222903.0,3190369
+405,Iowa,Depression,Depression among adults aged >=18 years,IA,883774.0,3190369
+406,Iowa,Diabetes,Diagnosed diabetes among adults aged >=18 years,IA,448179.0,3190369
+407,Iowa,General Health,Fair or poor self-rated health status among adults aged >=18 years,IA,614196.0,3190369
+408,Iowa,Health Insurance,Current lack of health insurance among adults aged 18-64 years,IA,489944.0,3190369
+409,Iowa,Mammography,Mammography use among women aged 50-74 years,IA,3709358.0,3190369
+410,Iowa,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,IA,680754.0,3190369
+411,Iowa,Obesity,Obesity among adults aged >=18 years,IA,1769770.0,3190369
+412,Iowa,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,IA,444720.0,3190369
+413,Iowa,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,IA,1135248.0,3190369
+414,Iowa,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,IA,1485559.0,3190369
+415,Iowa,Stroke,Stroke among adults aged >=18 years,IA,134944.0,3190369
+416,Kansas,All Teeth Lost,All teeth lost among adults aged >=65 years,KS,632881.0,2937880
+417,Kansas,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,KS,3457789.0,2937880
+418,Kansas,Arthritis,Arthritis among adults aged >=18 years,KS,1048060.0,2937880
+419,Kansas,Binge Drinking,Binge drinking among adults aged >=18 years,KS,844368.0,2937880
+420,Kansas,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,KS,280440.0,2937880
+421,Kansas,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,KS,285288.0,2937880
+422,Kansas,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,KS,3932353.0,2937880
+423,Kansas,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,KS,128994.0,2937880
+424,Kansas,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",KS,3180140.0,2937880
+425,Kansas,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",KS,1999413.0,2937880
+426,Kansas,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",KS,1799770.0,2937880
+427,Kansas,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,KS,273560.0,2937880
+428,Kansas,Current Asthma,Current asthma among adults aged >=18 years,KS,456480.0,2937880
+429,Kansas,Current Smoking,Current smoking among adults aged >=18 years,KS,853048.0,2937880
+430,Kansas,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,KS,3098617.0,2937880
+431,Kansas,Depression,Depression among adults aged >=18 years,KS,920739.0,2937880
+432,Kansas,Diabetes,Diagnosed diabetes among adults aged >=18 years,KS,480843.0,2937880
+433,Kansas,General Health,Fair or poor self-rated health status among adults aged >=18 years,KS,641210.0,2937880
+434,Kansas,Health Insurance,Current lack of health insurance among adults aged 18-64 years,KS,758938.0,2937880
+435,Kansas,Mammography,Mammography use among women aged 50-74 years,KS,3453042.0,2937880
+436,Kansas,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,KS,678593.0,2937880
+437,Kansas,Obesity,Obesity among adults aged >=18 years,KS,1682946.0,2937880
+438,Kansas,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,KS,449740.0,2937880
+439,Kansas,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,KS,1071525.0,2937880
+440,Kansas,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,KS,1540814.0,2937880
+441,Kansas,Stroke,Stroke among adults aged >=18 years,KS,130997.0,2937880
+442,Kentucky,All Teeth Lost,All teeth lost among adults aged >=65 years,KY,889943.0,4505836
+443,Kentucky,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,KY,3836861.0,4505836
+444,Kentucky,Arthritis,Arthritis among adults aged >=18 years,KY,1409743.0,4505836
+445,Kentucky,Binge Drinking,Binge drinking among adults aged >=18 years,KY,804427.0,4505836
+446,Kentucky,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,KY,457100.0,4505836
+447,Kentucky,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,KY,307900.0,4505836
+448,Kentucky,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,KY,4125653.0,4505836
+449,Kentucky,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,KY,149998.0,4505836
+450,Kentucky,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",KY,3663452.0,4505836
+451,Kentucky,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",KY,2150809.0,4505836
+452,Kentucky,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",KY,1901792.0,4505836
+453,Kentucky,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,KY,335871.0,4505836
+454,Kentucky,Current Asthma,Current asthma among adults aged >=18 years,KY,569623.0,4505836
+455,Kentucky,Current Smoking,Current smoking among adults aged >=18 years,KY,1082056.0,4505836
+456,Kentucky,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,KY,2867837.0,4505836
+457,Kentucky,Depression,Depression among adults aged >=18 years,KY,1277017.0,4505836
+458,Kentucky,Diabetes,Diagnosed diabetes among adults aged >=18 years,KY,555468.0,4505836
+459,Kentucky,General Health,Fair or poor self-rated health status among adults aged >=18 years,KY,961933.0,4505836
+460,Kentucky,Health Insurance,Current lack of health insurance among adults aged 18-64 years,KY,553033.0,4505836
+461,Kentucky,Mammography,Mammography use among women aged 50-74 years,KY,3648838.0,4505836
+462,Kentucky,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,KY,916741.0,4505836
+463,Kentucky,Obesity,Obesity among adults aged >=18 years,KY,1871925.0,4505836
+464,Kentucky,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,KY,658196.0,4505836
+465,Kentucky,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,KY,1504886.0,4505836
+466,Kentucky,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,KY,1858460.0,4505836
+467,Kentucky,Stroke,Stroke among adults aged >=18 years,KY,166021.0,4505836
+468,Louisiana,All Teeth Lost,All teeth lost among adults aged >=65 years,LA,1131256.0,4657757
+469,Louisiana,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,LA,4660671.0,4657757
+470,Louisiana,Arthritis,Arthritis among adults aged >=18 years,LA,1471387.0,4657757
+471,Louisiana,Binge Drinking,Binge drinking among adults aged >=18 years,LA,1150367.0,4657757
+472,Louisiana,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,LA,455779.0,4657757
+473,Louisiana,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,LA,345166.0,4657757
+474,Louisiana,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,LA,4898110.0,4657757
+475,Louisiana,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,LA,201938.0,4657757
+476,Louisiana,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",LA,4162797.0,4657757
+477,Louisiana,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",LA,2084063.0,4657757
+478,Louisiana,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",LA,1960788.0,4657757
+479,Louisiana,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,LA,401367.0,4657757
+480,Louisiana,Current Asthma,Current asthma among adults aged >=18 years,LA,591814.0,4657757
+481,Louisiana,Current Smoking,Current smoking among adults aged >=18 years,LA,1267122.0,4657757
+482,Louisiana,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,LA,3250180.0,4657757
+483,Louisiana,Depression,Depression among adults aged >=18 years,LA,1468208.0,4657757
+484,Louisiana,Diabetes,Diagnosed diabetes among adults aged >=18 years,LA,801400.0,4657757
+485,Louisiana,General Health,Fair or poor self-rated health status among adults aged >=18 years,LA,1211946.0,4657757
+486,Louisiana,Health Insurance,Current lack of health insurance among adults aged 18-64 years,LA,943363.0,4657757
+487,Louisiana,Mammography,Mammography use among women aged 50-74 years,LA,4705075.0,4657757
+488,Louisiana,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,LA,1071328.0,4657757
+489,Louisiana,Obesity,Obesity among adults aged >=18 years,LA,2304496.0,4657757
+490,Louisiana,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,LA,754610.0,4657757
+491,Louisiana,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,LA,1877274.0,4657757
+492,Louisiana,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,LA,2275820.0,4657757
+493,Louisiana,Stroke,Stroke among adults aged >=18 years,LA,236403.0,4657757
+494,Maine,All Teeth Lost,All teeth lost among adults aged >=65 years,ME,209674.0,1362359
+495,Maine,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,ME,963635.0,1362359
+496,Maine,Arthritis,Arthritis among adults aged >=18 years,ME,309966.0,1362359
+497,Maine,Binge Drinking,Binge drinking among adults aged >=18 years,ME,197112.0,1362359
+498,Maine,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,ME,95748.0,1362359
+499,Maine,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,ME,82676.0,1362359
+500,Maine,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,ME,1034790.0,1362359
+501,Maine,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,ME,35120.0,1362359
+502,Maine,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",ME,955994.0,1362359
+503,Maine,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",ME,579797.0,1362359
+504,Maine,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",ME,457443.0,1362359
+505,Maine,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,ME,79143.0,1362359
+506,Maine,Current Asthma,Current asthma among adults aged >=18 years,ME,137441.0,1362359
+507,Maine,Current Smoking,Current smoking among adults aged >=18 years,ME,217830.0,1362359
+508,Maine,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,ME,802238.0,1362359
+509,Maine,Depression,Depression among adults aged >=18 years,ME,295962.0,1362359
+510,Maine,Diabetes,Diagnosed diabetes among adults aged >=18 years,ME,108535.0,1362359
+511,Maine,General Health,Fair or poor self-rated health status among adults aged >=18 years,ME,154262.0,1362359
+512,Maine,Health Insurance,Current lack of health insurance among adults aged 18-64 years,ME,156228.0,1362359
+513,Maine,Mammography,Mammography use among women aged 50-74 years,ME,952426.0,1362359
+514,Maine,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,ME,179507.0,1362359
+515,Maine,Obesity,Obesity among adults aged >=18 years,ME,386703.0,1362359
+516,Maine,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,ME,116903.0,1362359
+517,Maine,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,ME,272111.0,1362359
+518,Maine,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,ME,392508.0,1362359
+519,Maine,Stroke,Stroke among adults aged >=18 years,ME,35889.0,1362359
+520,Maryland,All Teeth Lost,All teeth lost among adults aged >=65 years,MD,1008890.0,6177224
+521,Maryland,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,MD,7222786.0,6177224
+522,Maryland,Arthritis,Arthritis among adults aged >=18 years,MD,2040137.0,6177224
+523,Maryland,Binge Drinking,Binge drinking among adults aged >=18 years,MD,1368899.0,6177224
+524,Maryland,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,MD,479408.0,6177224
+525,Maryland,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,MD,549683.0,6177224
+526,Maryland,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,MD,8031270.0,6177224
+527,Maryland,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,MD,249686.0,6177224
+528,Maryland,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",MD,6940160.0,6177224
+529,Maryland,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",MD,3929984.0,6177224
+530,Maryland,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",MD,3533669.0,6177224
+531,Maryland,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,MD,474222.0,6177224
+532,Maryland,Current Asthma,Current asthma among adults aged >=18 years,MD,927590.0,6177224
+533,Maryland,Current Smoking,Current smoking among adults aged >=18 years,MD,1311032.0,6177224
+534,Maryland,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,MD,6079173.0,6177224
+535,Maryland,Depression,Depression among adults aged >=18 years,MD,1650120.0,6177224
+536,Maryland,Diabetes,Diagnosed diabetes among adults aged >=18 years,MD,940796.0,6177224
+537,Maryland,General Health,Fair or poor self-rated health status among adults aged >=18 years,MD,1177563.0,6177224
+538,Maryland,Health Insurance,Current lack of health insurance among adults aged 18-64 years,MD,1134138.0,6177224
+539,Maryland,Mammography,Mammography use among women aged 50-74 years,MD,7271819.0,6177224
+540,Maryland,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,MD,1312869.0,6177224
+541,Maryland,Obesity,Obesity among adults aged >=18 years,MD,2990227.0,6177224
+542,Maryland,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,MD,768190.0,6177224
+543,Maryland,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,MD,2025844.0,6177224
+544,Maryland,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,MD,3297938.0,6177224
+545,Maryland,Stroke,Stroke among adults aged >=18 years,MD,267177.0,6177224
+546,Massachusetts,All Teeth Lost,All teeth lost among adults aged >=65 years,MA,1189540.0,7029917
+547,Massachusetts,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,MA,7152699.0,7029917
+548,Massachusetts,Arthritis,Arthritis among adults aged >=18 years,MA,2082218.0,7029917
+549,Massachusetts,Binge Drinking,Binge drinking among adults aged >=18 years,MA,1590202.0,7029917
+550,Massachusetts,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,MA,492165.0,7029917
+551,Massachusetts,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,MA,571438.0,7029917
+552,Massachusetts,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,MA,7805321.0,7029917
+553,Massachusetts,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,MA,239730.0,7029917
+554,Massachusetts,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",MA,7227635.0,7029917
+555,Massachusetts,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",MA,4356909.0,7029917
+556,Massachusetts,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",MA,3634034.0,7029917
+557,Massachusetts,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,MA,484976.0,7029917
+558,Massachusetts,Current Asthma,Current asthma among adults aged >=18 years,MA,1013572.0,7029917
+559,Massachusetts,Current Smoking,Current smoking among adults aged >=18 years,MA,1296778.0,7029917
+560,Massachusetts,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,MA,6485610.0,7029917
+561,Massachusetts,Depression,Depression among adults aged >=18 years,MA,1801438.0,7029917
+562,Massachusetts,Diabetes,Diagnosed diabetes among adults aged >=18 years,MA,769390.0,7029917
+563,Massachusetts,General Health,Fair or poor self-rated health status among adults aged >=18 years,MA,1113317.0,7029917
+564,Massachusetts,Health Insurance,Current lack of health insurance among adults aged 18-64 years,MA,750942.0,7029917
+565,Massachusetts,Mammography,Mammography use among women aged 50-74 years,MA,7497588.0,7029917
+566,Massachusetts,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,MA,1341915.0,7029917
+567,Massachusetts,Obesity,Obesity among adults aged >=18 years,MA,2367430.0,7029917
+568,Massachusetts,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,MA,809087.0,7029917
+569,Massachusetts,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,MA,1950164.0,7029917
+570,Massachusetts,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,MA,2953194.0,7029917
+571,Massachusetts,Stroke,Stroke among adults aged >=18 years,MA,240863.0,7029917
+572,Michigan,All Teeth Lost,All teeth lost among adults aged >=65 years,MI,1640506.0,10077331
+573,Michigan,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,MI,8283362.0,10077331
+574,Michigan,Arthritis,Arthritis among adults aged >=18 years,MI,3066639.0,10077331
+575,Michigan,Binge Drinking,Binge drinking among adults aged >=18 years,MI,2039003.0,10077331
+576,Michigan,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,MI,836160.0,10077331
+577,Michigan,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,MI,673375.0,10077331
+578,Michigan,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,MI,9272403.0,10077331
+579,Michigan,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,MI,343568.0,10077331
+580,Michigan,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",MI,8122632.0,10077331
+581,Michigan,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",MI,4615224.0,10077331
+582,Michigan,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",MI,4104695.0,10077331
+583,Michigan,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,MI,694362.0,10077331
+584,Michigan,Current Asthma,Current asthma among adults aged >=18 years,MI,1334503.0,10077331
+585,Michigan,Current Smoking,Current smoking among adults aged >=18 years,MI,2268352.0,10077331
+586,Michigan,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,MI,7186771.0,10077331
+587,Michigan,Depression,Depression among adults aged >=18 years,MI,2326586.0,10077331
+588,Michigan,Diabetes,Diagnosed diabetes among adults aged >=18 years,MI,1278076.0,10077331
+589,Michigan,General Health,Fair or poor self-rated health status among adults aged >=18 years,MI,1855681.0,10077331
+590,Michigan,Health Insurance,Current lack of health insurance among adults aged 18-64 years,MI,1240130.0,10077331
+591,Michigan,Mammography,Mammography use among women aged 50-74 years,MI,8288976.0,10077331
+592,Michigan,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,MI,1924270.0,10077331
+593,Michigan,Obesity,Obesity among adults aged >=18 years,MI,4194547.0,10077331
+594,Michigan,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,MI,1262093.0,10077331
+595,Michigan,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,MI,2548076.0,10077331
+596,Michigan,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,MI,3995567.0,10077331
+597,Michigan,Stroke,Stroke among adults aged >=18 years,MI,384599.0,10077331
+598,Minnesota,All Teeth Lost,All teeth lost among adults aged >=65 years,MN,843136.0,5706494
+599,Minnesota,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,MN,6039163.0,5706494
+600,Minnesota,Arthritis,Arthritis among adults aged >=18 years,MN,1767539.0,5706494
+601,Minnesota,Binge Drinking,Binge drinking among adults aged >=18 years,MN,1779097.0,5706494
+602,Minnesota,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,MN,403646.0,5706494
+603,Minnesota,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,MN,529711.0,5706494
+604,Minnesota,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,MN,7209556.0,5706494
+605,Minnesota,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,MN,215681.0,5706494
+606,Minnesota,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",MN,6469125.0,5706494
+607,Minnesota,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",MN,3762633.0,5706494
+608,Minnesota,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",MN,3402531.0,5706494
+609,Minnesota,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,MN,451922.0,5706494
+610,Minnesota,Current Asthma,Current asthma among adults aged >=18 years,MN,790305.0,5706494
+611,Minnesota,Current Smoking,Current smoking among adults aged >=18 years,MN,1404469.0,5706494
+612,Minnesota,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,MN,5917414.0,5706494
+613,Minnesota,Depression,Depression among adults aged >=18 years,MN,1952190.0,5706494
+614,Minnesota,Diabetes,Diagnosed diabetes among adults aged >=18 years,MN,704507.0,5706494
+615,Minnesota,General Health,Fair or poor self-rated health status among adults aged >=18 years,MN,947034.0,5706494
+616,Minnesota,Health Insurance,Current lack of health insurance among adults aged 18-64 years,MN,967331.0,5706494
+617,Minnesota,Mammography,Mammography use among women aged 50-74 years,MN,6639573.0,5706494
+618,Minnesota,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,MN,1187114.0,5706494
+619,Minnesota,Obesity,Obesity among adults aged >=18 years,MN,2743407.0,5706494
+620,Minnesota,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,MN,722081.0,5706494
+621,Minnesota,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,MN,1647526.0,5706494
+622,Minnesota,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,MN,2411154.0,5706494
+623,Minnesota,Stroke,Stroke among adults aged >=18 years,MN,223604.0,5706494
+624,Mississippi,All Teeth Lost,All teeth lost among adults aged >=65 years,MS,621091.0,2961279
+625,Mississippi,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,MS,2556860.0,2961279
+626,Mississippi,Arthritis,Arthritis among adults aged >=18 years,MS,896735.0,2961279
+627,Mississippi,Binge Drinking,Binge drinking among adults aged >=18 years,MS,440333.0,2961279
+628,Mississippi,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,MS,243964.0,2961279
+629,Mississippi,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,MS,188834.0,2961279
+630,Mississippi,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,MS,2746415.0,2961279
+631,Mississippi,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,MS,110849.0,2961279
+632,Mississippi,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",MS,2250793.0,2961279
+633,Mississippi,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",MS,1363060.0,2961279
+634,Mississippi,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",MS,1079088.0,2961279
+635,Mississippi,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,MS,223027.0,2961279
+636,Mississippi,Current Asthma,Current asthma among adults aged >=18 years,MS,338299.0,2961279
+637,Mississippi,Current Smoking,Current smoking among adults aged >=18 years,MS,668025.0,2961279
+638,Mississippi,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,MS,1752359.0,2961279
+639,Mississippi,Depression,Depression among adults aged >=18 years,MS,691054.0,2961279
+640,Mississippi,Diabetes,Diagnosed diabetes among adults aged >=18 years,MS,427621.0,2961279
+641,Mississippi,General Health,Fair or poor self-rated health status among adults aged >=18 years,MS,685587.0,2961279
+642,Mississippi,Health Insurance,Current lack of health insurance among adults aged 18-64 years,MS,664608.0,2961279
+643,Mississippi,Mammography,Mammography use among women aged 50-74 years,MS,2401433.0,2961279
+644,Mississippi,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,MS,504524.0,2961279
+645,Mississippi,Obesity,Obesity among adults aged >=18 years,MS,1318874.0,2961279
+646,Mississippi,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,MS,371903.0,2961279
+647,Mississippi,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,MS,992842.0,2961279
+648,Mississippi,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,MS,1152323.0,2961279
+649,Mississippi,Stroke,Stroke among adults aged >=18 years,MS,135606.0,2961279
+650,Missouri,All Teeth Lost,All teeth lost among adults aged >=65 years,MO,1416985.0,6154913
+651,Missouri,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,MO,6161789.0,6154913
+652,Missouri,Arthritis,Arthritis among adults aged >=18 years,MO,2134777.0,6154913
+653,Missouri,Binge Drinking,Binge drinking among adults aged >=18 years,MO,1504658.0,6154913
+654,Missouri,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,MO,616979.0,6154913
+655,Missouri,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,MO,515301.0,6154913
+656,Missouri,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,MO,6795951.0,6154913
+657,Missouri,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,MO,238492.0,6154913
+658,Missouri,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",MO,5771288.0,6154913
+659,Missouri,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",MO,3806756.0,6154913
+660,Missouri,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",MO,3161876.0,6154913
+661,Missouri,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,MO,525713.0,6154913
+662,Missouri,Current Asthma,Current asthma among adults aged >=18 years,MO,820819.0,6154913
+663,Missouri,Current Smoking,Current smoking among adults aged >=18 years,MO,1638169.0,6154913
+664,Missouri,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,MO,5060275.0,6154913
+665,Missouri,Depression,Depression among adults aged >=18 years,MO,1946077.0,6154913
+666,Missouri,Diabetes,Diagnosed diabetes among adults aged >=18 years,MO,839095.0,6154913
+667,Missouri,General Health,Fair or poor self-rated health status among adults aged >=18 years,MO,1353433.0,6154913
+668,Missouri,Health Insurance,Current lack of health insurance among adults aged 18-64 years,MO,1344028.0,6154913
+669,Missouri,Mammography,Mammography use among women aged 50-74 years,MO,6172879.0,6154913
+670,Missouri,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,MO,1341904.0,6154913
+671,Missouri,Obesity,Obesity among adults aged >=18 years,MO,2893921.0,6154913
+672,Missouri,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,MO,931483.0,6154913
+673,Missouri,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,MO,2126396.0,6154913
+674,Missouri,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,MO,2841212.0,6154913
+675,Missouri,Stroke,Stroke among adults aged >=18 years,MO,264871.0,6154913
+676,Montana,All Teeth Lost,All teeth lost among adults aged >=65 years,MT,184724.0,1084225
+677,Montana,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,MT,940008.0,1084225
+678,Montana,Arthritis,Arthritis among adults aged >=18 years,MT,323823.0,1084225
+679,Montana,Binge Drinking,Binge drinking among adults aged >=18 years,MT,295745.0,1084225
+680,Montana,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,MT,86414.0,1084225
+681,Montana,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,MT,86592.0,1084225
+682,Montana,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,MT,1118157.0,1084225
+683,Montana,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,MT,37444.0,1084225
+684,Montana,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",MT,911556.0,1084225
+685,Montana,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",MT,565922.0,1084225
+686,Montana,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",MT,510964.0,1084225
+687,Montana,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,MT,79589.0,1084225
+688,Montana,Current Asthma,Current asthma among adults aged >=18 years,MT,143323.0,1084225
+689,Montana,Current Smoking,Current smoking among adults aged >=18 years,MT,243012.0,1084225
+690,Montana,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,MT,859724.0,1084225
+691,Montana,Depression,Depression among adults aged >=18 years,MT,325645.0,1084225
+692,Montana,Diabetes,Diagnosed diabetes among adults aged >=18 years,MT,116229.0,1084225
+693,Montana,General Health,Fair or poor self-rated health status among adults aged >=18 years,MT,171155.0,1084225
+694,Montana,Health Insurance,Current lack of health insurance among adults aged 18-64 years,MT,165525.0,1084225
+695,Montana,Mammography,Mammography use among women aged 50-74 years,MT,954734.0,1084225
+696,Montana,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,MT,191759.0,1084225
+697,Montana,Obesity,Obesity among adults aged >=18 years,MT,406046.0,1084225
+698,Montana,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,MT,140325.0,1084225
+699,Montana,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,MT,270340.0,1084225
+700,Montana,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,MT,405534.0,1084225
+701,Montana,Stroke,Stroke among adults aged >=18 years,MT,39430.0,1084225
+702,Nebraska,All Teeth Lost,All teeth lost among adults aged >=65 years,NE,338110.0,1961504
+703,Nebraska,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,NE,2070350.0,1961504
+704,Nebraska,Arthritis,Arthritis among adults aged >=18 years,NE,632503.0,1961504
+705,Nebraska,Binge Drinking,Binge drinking among adults aged >=18 years,NE,636652.0,1961504
+706,Nebraska,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,NE,155605.0,1961504
+707,Nebraska,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,NE,180657.0,1961504
+708,Nebraska,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,NE,2389786.0,1961504
+709,Nebraska,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,NE,77186.0,1961504
+710,Nebraska,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",NE,2034594.0,1961504
+711,Nebraska,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",NE,1344095.0,1961504
+712,Nebraska,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",NE,1120436.0,1961504
+713,Nebraska,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,NE,159743.0,1961504
+714,Nebraska,Current Asthma,Current asthma among adults aged >=18 years,NE,248773.0,1961504
+715,Nebraska,Current Smoking,Current smoking among adults aged >=18 years,NE,482482.0,1961504
+716,Nebraska,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,NE,1913722.0,1961504
+717,Nebraska,Depression,Depression among adults aged >=18 years,NE,534040.0,1961504
+718,Nebraska,Diabetes,Diagnosed diabetes among adults aged >=18 years,NE,274273.0,1961504
+719,Nebraska,General Health,Fair or poor self-rated health status among adults aged >=18 years,NE,342954.0,1961504
+720,Nebraska,Health Insurance,Current lack of health insurance among adults aged 18-64 years,NE,459079.0,1961504
+721,Nebraska,Mammography,Mammography use among women aged 50-74 years,NE,2112829.0,1961504
+722,Nebraska,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,NE,372138.0,1961504
+723,Nebraska,Obesity,Obesity among adults aged >=18 years,NE,1039541.0,1961504
+724,Nebraska,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,NE,252646.0,1961504
+725,Nebraska,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,NE,653033.0,1961504
+726,Nebraska,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,NE,854314.0,1961504
+727,Nebraska,Stroke,Stroke among adults aged >=18 years,NE,78773.0,1961504
+728,Nevada,All Teeth Lost,All teeth lost among adults aged >=65 years,NV,769232.0,3104614
+729,Nevada,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,NV,3465643.0,3104614
+730,Nevada,Arthritis,Arthritis among adults aged >=18 years,NV,1168134.0,3104614
+731,Nevada,Binge Drinking,Binge drinking among adults aged >=18 years,NV,963745.0,3104614
+732,Nevada,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,NV,348720.0,3104614
+733,Nevada,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,NV,285927.0,3104614
+734,Nevada,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,NV,4055809.0,3104614
+735,Nevada,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,NV,146571.0,3104614
+736,Nevada,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",NV,3400988.0,3104614
+737,Nevada,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",NV,2233551.0,3104614
+738,Nevada,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",NV,1539238.0,3104614
+739,Nevada,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,NV,318255.0,3104614
+740,Nevada,Current Asthma,Current asthma among adults aged >=18 years,NV,526636.0,3104614
+741,Nevada,Current Smoking,Current smoking among adults aged >=18 years,NV,946584.0,3104614
+742,Nevada,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,NV,3046140.0,3104614
+743,Nevada,Depression,Depression among adults aged >=18 years,NV,1004621.0,3104614
+744,Nevada,Diabetes,Diagnosed diabetes among adults aged >=18 years,NV,540534.0,3104614
+745,Nevada,General Health,Fair or poor self-rated health status among adults aged >=18 years,NV,907336.0,3104614
+746,Nevada,Health Insurance,Current lack of health insurance among adults aged 18-64 years,NV,947601.0,3104614
+747,Nevada,Mammography,Mammography use among women aged 50-74 years,NV,3581464.0,3104614
+748,Nevada,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,NV,865272.0,3104614
+749,Nevada,Obesity,Obesity among adults aged >=18 years,NV,1575563.0,3104614
+750,Nevada,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,NV,614939.0,3104614
+751,Nevada,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,NV,1300812.0,3104614
+752,Nevada,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,NV,1825632.0,3104614
+753,Nevada,Stroke,Stroke among adults aged >=18 years,NV,150670.0,3104614
+754,New Hampshire,All Teeth Lost,All teeth lost among adults aged >=65 years,NH,162582.0,1377529
+755,New Hampshire,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,NH,894374.0,1377529
+756,New Hampshire,Arthritis,Arthritis among adults aged >=18 years,NH,294533.0,1377529
+757,New Hampshire,Binge Drinking,Binge drinking among adults aged >=18 years,NH,229958.0,1377529
+758,New Hampshire,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,NH,76596.0,1377529
+759,New Hampshire,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,NH,78880.0,1377529
+760,New Hampshire,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,NH,1044294.0,1377529
+761,New Hampshire,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,NH,31168.0,1377529
+762,New Hampshire,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",NH,920397.0,1377529
+763,New Hampshire,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",NH,555895.0,1377529
+764,New Hampshire,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",NH,449521.0,1377529
+765,New Hampshire,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,NH,68951.0,1377529
+766,New Hampshire,Current Asthma,Current asthma among adults aged >=18 years,NH,139630.0,1377529
+767,New Hampshire,Current Smoking,Current smoking among adults aged >=18 years,NH,202226.0,1377529
+768,New Hampshire,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,NH,836049.0,1377529
+769,New Hampshire,Depression,Depression among adults aged >=18 years,NH,289087.0,1377529
+770,New Hampshire,Diabetes,Diagnosed diabetes among adults aged >=18 years,NH,103404.0,1377529
+771,New Hampshire,General Health,Fair or poor self-rated health status among adults aged >=18 years,NH,154041.0,1377529
+772,New Hampshire,Health Insurance,Current lack of health insurance among adults aged 18-64 years,NH,147139.0,1377529
+773,New Hampshire,Mammography,Mammography use among women aged 50-74 years,NH,924580.0,1377529
+774,New Hampshire,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,NH,194032.0,1377529
+775,New Hampshire,Obesity,Obesity among adults aged >=18 years,NH,381262.0,1377529
+776,New Hampshire,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,NH,122506.0,1377529
+777,New Hampshire,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,NH,254911.0,1377529
+778,New Hampshire,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,NH,408147.0,1377529
+779,New Hampshire,Stroke,Stroke among adults aged >=18 years,NH,32044.0,1377529
+780,New Jersey,All Teeth Lost,All teeth lost among adults aged >=65 years,NJ,1381673.0,9288994
+781,New Jersey,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,NJ,7895952.0,9288994
+782,New Jersey,Arthritis,Arthritis among adults aged >=18 years,NJ,2051053.0,9288994
+783,New Jersey,Binge Drinking,Binge drinking among adults aged >=18 years,NJ,1809511.0,9288994
+784,New Jersey,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,NJ,567326.0,9288994
+785,New Jersey,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,NJ,598837.0,9288994
+786,New Jersey,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,NJ,8753969.0,9288994
+787,New Jersey,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,NJ,285816.0,9288994
+788,New Jersey,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",NJ,7127250.0,9288994
+789,New Jersey,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",NJ,3496081.0,9288994
+790,New Jersey,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",NJ,3189718.0,9288994
+791,New Jersey,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,NJ,582780.0,9288994
+792,New Jersey,Current Asthma,Current asthma among adults aged >=18 years,NJ,1013014.0,9288994
+793,New Jersey,Current Smoking,Current smoking among adults aged >=18 years,NJ,1508553.0,9288994
+794,New Jersey,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,NJ,6688193.0,9288994
+795,New Jersey,Depression,Depression among adults aged >=18 years,NJ,1862449.0,9288994
+796,New Jersey,Diabetes,Diagnosed diabetes among adults aged >=18 years,NJ,1045951.0,9288994
+797,New Jersey,General Health,Fair or poor self-rated health status among adults aged >=18 years,NJ,1449344.0,9288994
+798,New Jersey,Health Insurance,Current lack of health insurance among adults aged 18-64 years,NJ,1820454.0,9288994
+799,New Jersey,Mammography,Mammography use among women aged 50-74 years,NJ,7910942.0,9288994
+800,New Jersey,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,NJ,1500792.0,9288994
+801,New Jersey,Obesity,Obesity among adults aged >=18 years,NJ,2991977.0,9288994
+802,New Jersey,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,NJ,960392.0,9288994
+803,New Jersey,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,NJ,2473230.0,9288994
+804,New Jersey,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,NJ,3714182.0,9288994
+805,New Jersey,Stroke,Stroke among adults aged >=18 years,NJ,296590.0,9288994
+806,New Mexico,All Teeth Lost,All teeth lost among adults aged >=65 years,NM,480379.0,2117522
+807,New Mexico,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,NM,2264065.0,2117522
+808,New Mexico,Arthritis,Arthritis among adults aged >=18 years,NM,736222.0,2117522
+809,New Mexico,Binge Drinking,Binge drinking among adults aged >=18 years,NM,483994.0,2117522
+810,New Mexico,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,NM,191147.0,2117522
+811,New Mexico,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,NM,185813.0,2117522
+812,New Mexico,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,NM,2761147.0,2117522
+813,New Mexico,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,NM,105696.0,2117522
+814,New Mexico,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",NM,2162467.0,2117522
+815,New Mexico,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",NM,1415216.0,2117522
+816,New Mexico,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",NM,1134611.0,2117522
+817,New Mexico,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,NM,195723.0,2117522
+818,New Mexico,Current Asthma,Current asthma among adults aged >=18 years,NM,346252.0,2117522
+819,New Mexico,Current Smoking,Current smoking among adults aged >=18 years,NM,565399.0,2117522
+820,New Mexico,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,NM,2113164.0,2117522
+821,New Mexico,Depression,Depression among adults aged >=18 years,NM,667104.0,2117522
+822,New Mexico,Diabetes,Diagnosed diabetes among adults aged >=18 years,NM,375652.0,2117522
+823,New Mexico,General Health,Fair or poor self-rated health status among adults aged >=18 years,NM,523496.0,2117522
+824,New Mexico,Health Insurance,Current lack of health insurance among adults aged 18-64 years,NM,487891.0,2117522
+825,New Mexico,Mammography,Mammography use among women aged 50-74 years,NM,2361202.0,2117522
+826,New Mexico,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,NM,498337.0,2117522
+827,New Mexico,Obesity,Obesity among adults aged >=18 years,NM,1004763.0,2117522
+828,New Mexico,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,NM,365416.0,2117522
+829,New Mexico,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,NM,751487.0,2117522
+830,New Mexico,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,NM,1101282.0,2117522
+831,New Mexico,Stroke,Stroke among adults aged >=18 years,NM,101586.0,2117522
+832,New York,All Teeth Lost,All teeth lost among adults aged >=65 years,NY,4189792.0,20201249
+833,New York,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,NY,24039306.0,20201249
+834,New York,Arthritis,Arthritis among adults aged >=18 years,NY,5872570.0,20201249
+835,New York,Binge Drinking,Binge drinking among adults aged >=18 years,NY,5034556.0,20201249
+836,New York,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,NY,1714078.0,20201249
+837,New York,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,NY,1742443.0,20201249
+838,New York,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,NY,25761456.0,20201249
+839,New York,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,NY,878327.0,20201249
+840,New York,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",NY,22674467.0,20201249
+841,New York,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",NY,11252172.0,20201249
+842,New York,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",NY,10096421.0,20201249
+843,New York,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,NY,1635900.0,20201249
+844,New York,Current Asthma,Current asthma among adults aged >=18 years,NY,3061032.0,20201249
+845,New York,Current Smoking,Current smoking among adults aged >=18 years,NY,4560299.0,20201249
+846,New York,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,NY,19394300.0,20201249
+847,New York,Depression,Depression among adults aged >=18 years,NY,5553339.0,20201249
+848,New York,Diabetes,Diagnosed diabetes among adults aged >=18 years,NY,3020041.0,20201249
+849,New York,General Health,Fair or poor self-rated health status among adults aged >=18 years,NY,4150833.0,20201249
+850,New York,Health Insurance,Current lack of health insurance among adults aged 18-64 years,NY,4588170.0,20201249
+851,New York,Mammography,Mammography use among women aged 50-74 years,NY,23978147.0,20201249
+852,New York,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,NY,4339658.0,20201249
+853,New York,Obesity,Obesity among adults aged >=18 years,NY,8240825.0,20201249
+854,New York,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,NY,2851796.0,20201249
+855,New York,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,NY,8026896.0,20201249
+856,New York,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,NY,10794445.0,20201249
+857,New York,Stroke,Stroke among adults aged >=18 years,NY,879452.0,20201249
+858,North Carolina,All Teeth Lost,All teeth lost among adults aged >=65 years,NC,80537.0,10439388
+859,North Carolina,Annual Checkup,Visits to doctor for routine checkup within the past year among adults aged >=18 years,NC,447888.0,10439388
+860,North Carolina,Arthritis,Arthritis among adults aged >=18 years,NC,169032.0,10439388
+861,North Carolina,Binge Drinking,Binge drinking among adults aged >=18 years,NC,79633.0,10439388
+862,North Carolina,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,NC,31172.0,10439388
+863,North Carolina,Cancer (except skin),Cancer (excluding skin cancer) among adults aged >=18 years,NC,38245.0,10439388
+864,North Carolina,Cervical Cancer Screening,Cervical cancer screening among adult women aged 21-65 years,NC,503421.0,10439388
+865,North Carolina,Chronic Kidney Disease,Chronic kidney disease among adults aged >=18 years,NC,16267.0,10439388
+866,North Carolina,Colorectal Cancer Screening,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",NC,384946.0,10439388
+867,North Carolina,Core preventive services for older men,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",NC,283323.0,10439388
+868,North Carolina,Core preventive services for older women,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",NC,231973.0,10439388
+869,North Carolina,Coronary Heart Disease,Coronary heart disease among adults aged >=18 years,NC,25362.0,10439388
+870,North Carolina,Current Asthma,Current asthma among adults aged >=18 years,NC,50745.0,10439388
+871,North Carolina,Current Smoking,Current smoking among adults aged >=18 years,NC,91518.0,10439388
+872,North Carolina,Dental Visit,Visits to dentist or dental clinic among adults aged >=18 years,NC,382701.0,10439388
+873,North Carolina,Depression,Depression among adults aged >=18 years,NC,138683.0,10439388
+874,North Carolina,Diabetes,Diagnosed diabetes among adults aged >=18 years,NC,46288.0,10439388
+875,North Carolina,General Health,Fair or poor self-rated health status among adults aged >=18 years,NC,72312.0,10439388
+876,North Carolina,Health Insurance,Current lack of health insurance among adults aged 18-64 years,NC,100309.0,10439388
+877,North Carolina,Mammography,Mammography use among women aged 50-74 years,NC,453542.0,10439388
+878,North Carolina,Mental Health,Mental health not good for >=14 days among adults aged >=18 years,NC,71821.0,10439388
+879,North Carolina,Obesity,Obesity among adults aged >=18 years,NC,221068.0,10439388
+880,North Carolina,Physical Health,Physical health not good for >=14 days among adults aged >=18 years,NC,56376.0,10439388
+881,North Carolina,Physical Inactivity,No leisure-time physical activity among adults aged >=18 years,NC,115487.0,10439388
+882,North Carolina,Sleep <7 hours,Sleeping less than 7 hours among adults aged >=18 years,NC,166742.0,10439388
+883,North Carolina,Stroke,Stroke among adults aged >=18 years,NC,40983.0,10439388
+884,North Dakota,Arthritis,Arthritis among adults aged >=18 years,ND,214.0,779094
+885,North Dakota,Depression,Depression among adults aged >=18 years,ND,263.0,779094
+886,North Dakota,Diabetes,Diagnosed diabetes among adults aged >=18 years,ND,107.0,779094
+887,North Dakota,Mammography,Mammography use among women aged 50-74 years,ND,39.0,779094
+888,North Dakota,Obesity,Obesity among adults aged >=18 years,ND,443.0,779094
+889,North Dakota,Stroke,Stroke among adults aged >=18 years,ND,253.0,779094
+890,Ohio,All Teeth Lost,All teeth lost among adults aged >=65 years,OH,54.0,11799448
+891,Ohio,Arthritis,Arthritis among adults aged >=18 years,OH,17684.0,11799448
+892,Ohio,Binge Drinking,Binge drinking among adults aged >=18 years,OH,3597.0,11799448
+893,Ohio,Current Asthma,Current asthma among adults aged >=18 years,OH,264.0,11799448
+894,Ohio,Depression,Depression among adults aged >=18 years,OH,4341.0,11799448
+895,Ohio,Diabetes,Diagnosed diabetes among adults aged >=18 years,OH,912.0,11799448
+896,Ohio,Mammography,Mammography use among women aged 50-74 years,OH,8413.0,11799448
+897,Ohio,Obesity,Obesity among adults aged >=18 years,OH,4685.0,11799448
+898,Ohio,Stroke,Stroke among adults aged >=18 years,OH,3845.0,11799448
+899,Oklahoma,All Teeth Lost,All teeth lost among adults aged >=65 years,OK,852.0,3959353
+900,Oklahoma,Arthritis,Arthritis among adults aged >=18 years,OK,1836.0,3959353
+901,Oklahoma,Current Asthma,Current asthma among adults aged >=18 years,OK,789.0,3959353
+902,Oklahoma,Depression,Depression among adults aged >=18 years,OK,348.0,3959353
+903,Oklahoma,Diabetes,Diagnosed diabetes among adults aged >=18 years,OK,478.0,3959353
+904,Oklahoma,Mammography,Mammography use among women aged 50-74 years,OK,3647.0,3959353
+905,Oklahoma,Obesity,Obesity among adults aged >=18 years,OK,8432.0,3959353
+906,Oklahoma,Stroke,Stroke among adults aged >=18 years,OK,691.0,3959353
+907,Oregon,Arthritis,Arthritis among adults aged >=18 years,OR,3207.0,4237256
+908,Oregon,Current Asthma,Current asthma among adults aged >=18 years,OR,910.0,4237256
+909,Oregon,Depression,Depression among adults aged >=18 years,OR,5983.0,4237256
+910,Oregon,Obesity,Obesity among adults aged >=18 years,OR,3643.0,4237256
+911,Oregon,Stroke,Stroke among adults aged >=18 years,OR,5.0,4237256
+912,Pennsylvania,All Teeth Lost,All teeth lost among adults aged >=65 years,PA,496.0,13002700
+913,Pennsylvania,Arthritis,Arthritis among adults aged >=18 years,PA,15143.0,13002700
+914,Pennsylvania,Current Asthma,Current asthma among adults aged >=18 years,PA,1351.0,13002700
+915,Pennsylvania,Depression,Depression among adults aged >=18 years,PA,4067.0,13002700
+916,Pennsylvania,Diabetes,Diagnosed diabetes among adults aged >=18 years,PA,4074.0,13002700
+917,Pennsylvania,Mammography,Mammography use among women aged 50-74 years,PA,19977.0,13002700
+918,Pennsylvania,Obesity,Obesity among adults aged >=18 years,PA,32540.0,13002700
+919,Pennsylvania,Stroke,Stroke among adults aged >=18 years,PA,5264.0,13002700
+920,Rhode Island,Stroke,Stroke among adults aged >=18 years,RI,15.0,1097379
+921,South Carolina,Arthritis,Arthritis among adults aged >=18 years,SC,1409.0,5118425
+922,South Carolina,Depression,Depression among adults aged >=18 years,SC,1983.0,5118425
+923,South Carolina,Mammography,Mammography use among women aged 50-74 years,SC,17094.0,5118425
+924,South Carolina,Obesity,Obesity among adults aged >=18 years,SC,10699.0,5118425
+925,South Carolina,Stroke,Stroke among adults aged >=18 years,SC,2114.0,5118425
+926,South Dakota,Arthritis,Arthritis among adults aged >=18 years,SD,620.0,886667
+927,South Dakota,Depression,Depression among adults aged >=18 years,SD,207.0,886667
+928,South Dakota,Diabetes,Diagnosed diabetes among adults aged >=18 years,SD,257.0,886667
+929,South Dakota,Obesity,Obesity among adults aged >=18 years,SD,2406.0,886667
+930,South Dakota,Stroke,Stroke among adults aged >=18 years,SD,141.0,886667
+931,Tennessee,All Teeth Lost,All teeth lost among adults aged >=65 years,TN,57.0,6910840
+932,Tennessee,Arthritis,Arthritis among adults aged >=18 years,TN,225.0,6910840
+933,Tennessee,Current Asthma,Current asthma among adults aged >=18 years,TN,2700.0,6910840
+934,Tennessee,Depression,Depression among adults aged >=18 years,TN,2116.0,6910840
+935,Tennessee,Diabetes,Diagnosed diabetes among adults aged >=18 years,TN,496.0,6910840
+936,Tennessee,Mammography,Mammography use among women aged 50-74 years,TN,6896.0,6910840
+937,Tennessee,Obesity,Obesity among adults aged >=18 years,TN,269320.0,6910840
+938,Tennessee,Stroke,Stroke among adults aged >=18 years,TN,975.0,6910840
+939,Texas,All Teeth Lost,All teeth lost among adults aged >=65 years,TX,57.0,29145505
+940,Texas,Arthritis,Arthritis among adults aged >=18 years,TX,10509.0,29145505
+941,Texas,Binge Drinking,Binge drinking among adults aged >=18 years,TX,367.0,29145505
+942,Texas,Current Asthma,Current asthma among adults aged >=18 years,TX,8056.0,29145505
+943,Texas,Depression,Depression among adults aged >=18 years,TX,22781.0,29145505
+944,Texas,Diabetes,Diagnosed diabetes among adults aged >=18 years,TX,843.0,29145505
+945,Texas,Mammography,Mammography use among women aged 50-74 years,TX,8990.0,29145505
+946,Texas,Obesity,Obesity among adults aged >=18 years,TX,8260.0,29145505
+947,Texas,Stroke,Stroke among adults aged >=18 years,TX,4539.0,29145505
+948,Utah,Arthritis,Arthritis among adults aged >=18 years,UT,18321.0,3271616
+949,Utah,Depression,Depression among adults aged >=18 years,UT,2026.0,3271616
+950,Utah,Stroke,Stroke among adults aged >=18 years,UT,761.0,3271616
+951,Vermont,Arthritis,Arthritis among adults aged >=18 years,VT,110.0,643077
+952,Vermont,Depression,Depression among adults aged >=18 years,VT,116.0,643077
+953,Vermont,Diabetes,Diagnosed diabetes among adults aged >=18 years,VT,289.0,643077
+954,Vermont,Stroke,Stroke among adults aged >=18 years,VT,279.0,643077
+955,Virginia,All Teeth Lost,All teeth lost among adults aged >=65 years,VA,2507.0,8631393
+956,Virginia,Arthritis,Arthritis among adults aged >=18 years,VA,5358.0,8631393
+957,Virginia,Binge Drinking,Binge drinking among adults aged >=18 years,VA,813.0,8631393
+958,Virginia,Current Asthma,Current asthma among adults aged >=18 years,VA,26.0,8631393
+959,Virginia,Depression,Depression among adults aged >=18 years,VA,43071.0,8631393
+960,Virginia,Diabetes,Diagnosed diabetes among adults aged >=18 years,VA,9122.0,8631393
+961,Virginia,Mammography,Mammography use among women aged 50-74 years,VA,600.0,8631393
+962,Virginia,Obesity,Obesity among adults aged >=18 years,VA,12107.0,8631393
+963,Virginia,Stroke,Stroke among adults aged >=18 years,VA,1410.0,8631393
+964,Washington,Arthritis,Arthritis among adults aged >=18 years,WA,4104.0,7705281
+965,Washington,Depression,Depression among adults aged >=18 years,WA,5077.0,7705281
+966,Washington,Diabetes,Diagnosed diabetes among adults aged >=18 years,WA,18855.0,7705281
+967,Washington,Mammography,Mammography use among women aged 50-74 years,WA,75687.0,7705281
+968,Washington,Obesity,Obesity among adults aged >=18 years,WA,4006.0,7705281
+969,Washington,Stroke,Stroke among adults aged >=18 years,WA,1231.0,7705281
+970,West Virginia,Arthritis,Arthritis among adults aged >=18 years,WV,585.0,1793716
+971,West Virginia,Depression,Depression among adults aged >=18 years,WV,1019.0,1793716
+972,West Virginia,Diabetes,Diagnosed diabetes among adults aged >=18 years,WV,1449.0,1793716
+973,West Virginia,Mammography,Mammography use among women aged 50-74 years,WV,1477.0,1793716
+974,West Virginia,Obesity,Obesity among adults aged >=18 years,WV,13024.0,1793716
+975,West Virginia,Stroke,Stroke among adults aged >=18 years,WV,1869.0,1793716
+976,Wisconsin,Arthritis,Arthritis among adults aged >=18 years,WI,5269.0,5893718
+977,Wisconsin,Binge Drinking,Binge drinking among adults aged >=18 years,WI,337.0,5893718
+978,Wisconsin,Current Asthma,Current asthma among adults aged >=18 years,WI,1028.0,5893718
+979,Wisconsin,Depression,Depression among adults aged >=18 years,WI,5846.0,5893718
+980,Wisconsin,Diabetes,Diagnosed diabetes among adults aged >=18 years,WI,3871.0,5893718
+981,Wisconsin,Mammography,Mammography use among women aged 50-74 years,WI,8995.0,5893718
+982,Wisconsin,Obesity,Obesity among adults aged >=18 years,WI,6728.0,5893718
+983,Wisconsin,Stroke,Stroke among adults aged >=18 years,WI,3040.0,5893718
+984,Wyoming,Arthritis,Arthritis among adults aged >=18 years,WY,88.0,576851
+985,Wyoming,Binge Drinking,Binge drinking among adults aged >=18 years,WY,32.0,576851
+986,Wyoming,Current Asthma,Current asthma among adults aged >=18 years,WY,44.0,576851
+987,Wyoming,Depression,Depression among adults aged >=18 years,WY,332.0,576851
+988,Wyoming,Obesity,Obesity among adults aged >=18 years,WY,124.0,576851
+989,Wyoming,Stroke,Stroke among adults aged >=18 years,WY,99.0,576851
+990,Puerto Rico,,,,,3285874
