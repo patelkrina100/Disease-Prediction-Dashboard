@@ -2,7 +2,7 @@
 Python Dashboard that takes in disease symptoms to output the most accurate disease diagnosis
 
 
-# DS_3500_Project
+# Overview
 This code produces an interactive dashboard for disease prediction and disease information reporting. 
 To run this dashboard please follow the subsequent steps in their given order:
 1) go to the website https://chronicdata.cdc.gov/500-Cities-Places/PLACES-Local-Data-for-Better-Health-Place-Data-202/eav7-hnsx
